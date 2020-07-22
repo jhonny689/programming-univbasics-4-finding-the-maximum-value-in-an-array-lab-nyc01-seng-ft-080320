@@ -8,6 +8,6 @@ def find_max_value(array)
   #end
   #max
   binding.pry
-  array.sort
+  array = array.sort
   array.last
 end
