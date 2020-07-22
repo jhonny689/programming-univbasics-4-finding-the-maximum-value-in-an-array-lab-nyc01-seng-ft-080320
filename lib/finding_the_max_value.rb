@@ -9,5 +9,5 @@ def find_max_value(array)
   #max
   binding.pry
   array.sort
-  array.first
+  array.last
 end
