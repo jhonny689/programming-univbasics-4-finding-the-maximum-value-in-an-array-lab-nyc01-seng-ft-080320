@@ -7,7 +7,7 @@ def find_max_value(array)
     #end
   #end
   #max
-  binding.pry
+  #binding.pry
   array = array.sort
   array.last
 end
